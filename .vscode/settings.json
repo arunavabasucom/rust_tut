@@ -1,0 +1,17 @@
+{
+    "editor.cursorStyle": "line",
+     "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "yaml": true,
+        "c": false,
+        "dart": false,
+        "javascript": false,
+        "python": false,
+        "typescript": true,
+        "typescriptreact": true,
+        "rust": false
+    }
+}
