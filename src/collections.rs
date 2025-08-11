@@ -18,9 +18,16 @@ pub fn main(){
     }
     // 2. accessing the datatypes 
     let v =vec![1,2,3,4,5,6];
-    let third = &vec1[3];
+    let third = &v[3];
     println!("{}",third);
+    // array size is  pre-defined so we can get the error if we want to access the invalid array index at compile time 
+    // but vec are not like that so if we want to access a invalid memory address then we get error in the 
+    // runtime 
+    // so we can use `get` method to use the access the index handle the use cases 
+    match v.get(2) {
+        Some(third)=>println!("{}",third),
+        None => println!("There is no third element")
+    }
 
-    
 
 }
