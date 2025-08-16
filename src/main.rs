@@ -9,6 +9,8 @@ mod structs;
 mod Enums;
 mod lib;
 mod collections;
+mod errorHandeling;
+mod generics;
 // https://doc.rust-lang.org/book/ch03-02-data-types.html?highlight=data#data-types
 // fn main() {
     // normally variables in rust are immutable
@@ -84,7 +86,9 @@ fn main(){
     // slices::main();
     // structs::main();
     // Enums::main();
-    collections::main();
+    // collections::main();
+    // errorHandeling::main();
+    generics::main();
 }
 // fn my_func(x:i8,y:i8)->i8{
 //     println!("Hello from my_func");
