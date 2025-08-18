@@ -11,6 +11,9 @@ mod lib;
 mod collections;
 mod errorHandeling;
 mod generics;
+mod traits;
+mod lifetimes;
+mod lifetimeii;
 // https://doc.rust-lang.org/book/ch03-02-data-types.html?highlight=data#data-types
 // fn main() {
     // normally variables in rust are immutable
@@ -88,7 +91,10 @@ fn main(){
     // Enums::main();
     // collections::main();
     // errorHandeling::main();
-    generics::main();
+    // generics::main();
+    // traits::main();
+    // lifetimes::main();
+    lifetimeii::main();
 }
 // fn my_func(x:i8,y:i8)->i8{
 //     println!("Hello from my_func");
