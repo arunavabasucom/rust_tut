@@ -6,3 +6,10 @@
 - [x]  Ownership
 - [x]  Structs
 - [x]  Enums
+- [x]  Collections
+- [x]  Traits 
+- [x]  Lifetime
+- [x]  Generic
+
+
+
