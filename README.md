@@ -10,6 +10,10 @@
 - [x]  Traits 
 - [x]  Lifetime
 - [x]  Generic
+- [x]  Tests
+- []  Cli
+
+
 
 
 
