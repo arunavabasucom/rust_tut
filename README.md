@@ -2,7 +2,7 @@
 
 - [x]  Setup and hello world
 - [x]  Guessing game
-- [ ]  Common concepts
+- [X]  Common concepts
 - [x]  Ownership
 - [x]  Structs
 - [x]  Enums
@@ -10,8 +10,9 @@
 - [x]  Traits 
 - [x]  Lifetime
 - [x]  Generic
-- [x]  Tests
-- []  Cli
+- [x]  Testing
+- [ ]  Cli App
+- [ ]  Closures
 
 
 

@@ -30,4 +30,23 @@ pub fn main(){
     //         // break counter;
     //     }
     // }
+    let mut number =1;
+    while number != 0 {
+        println!("{}",number);
+        number -= 1;
+    }
+    // for loop
+    let a = [10,20,30,40];
+    for ele in a.iter(){
+        println!("{}",ele);
+    }
+    // last number is exclusive 
+     for ele in 1..4{
+        println!("{}",ele);
+    }
+    // line comment
+    /*
+    Block Comment 
+    */
+
 }
