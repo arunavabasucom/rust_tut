@@ -13,6 +13,8 @@
 - [x]  Testing
 - [ ]  Cli App
 - [ ]  Closures
+- [ ]  Multi Threading
+- [ ]  Advanced 
 
 
 
