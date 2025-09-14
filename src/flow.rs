@@ -46,7 +46,7 @@ pub fn main(){
     }
     // line comment
     /*
-    Block Comment 
+    Block Comment g
     */
 
 }
